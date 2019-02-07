@@ -66,17 +66,16 @@
 ---
 ## ... nekoliko zanimljivih "prankova"
 
-- ["Testing Inter-hemispheric Social Priming Theory in a Sample of Professional Politicians-A Brief Report"](../03_primjeri_radova/Gerry+Jay+Louis+hoax+paper.pdf)
+- ["Testing Inter-hemispheric Social Priming Theory in a Sample of Professional Politicians-A Brief Report"](03_primjeri_radova/Gerry+Jay+Louis+hoax+paper.pdf)
 
 ---
 
 ## ...
 
-- "Get me off Your Fucking Mailing List"
-<div style="text-align:center">
-  <iframe src="../03_primjeri_radova/remove.pdf" width="800" height="500"></iframe>
-</div>
+- ["Get me off Your Fucking Mailing List"](03_primjeri_radova/remove.pdf)
+
 ---
+
 # Žito i kukolj
 
 - kontinuitet rasprava usmjerenih na način odvajanja žita od kukolja
@@ -187,7 +186,9 @@ Otvaramo sezonu lova na grabežljivce!
 ### Pedeset nijansi sive predatorskog izdavaštva 
   
   "a grey zone where it is difficult to decide whether or not a publisher is predatory, particularly for newcomers for whom there is still a lack of evidence."
+  
 ---
+
 # Predatorski izdavači/časopisi
 
 Neka obilježja: 
@@ -204,6 +205,7 @@ Neka obilježja:
 - lažni IF (impact factor) ili podatak o indeksiranosti u relevantnim bazama podataka
 - izdavač šalje spam mailove (s pozivima za objavljivanje radova, pozivima za recenzente, gostujuće urednike i sl.)
 - ... "kreativna industrija", "režu" gdje smo "najtanji"
+
 ---
 
 # Predatorske konferencije
@@ -228,53 +230,39 @@ Neka obilježja (pogledati video na kraju! pt):
 
 [**Izvorna publikacija**](http://www.landesmuseum.ktn.gv.at/210226w_DE.htm?seite=15)
 
-<div style="text-align:center">
-  <iframe src="http://www.landesmuseum.ktn.gv.at/210226w_DE.htm?seite=15" width="800" height="500"></iframe>
-</div>
-
 ---
 
 ## Krađa identiteta etabliranih časopisa
 
 [**Surogat**](http://www.multidisciplinarywulfenia.org/index.html)
 
-<div style="text-align:center">
-  <iframe src="http://www.multidisciplinarywulfenia.org/index.html" width="800" height="500"></iframe>
-</div>
-
 ---
+
 ## Oteti identiteti ...
 
-Časopis *Jökull: Journal of Earth Sciences* (ISSN 0449-0576)> http://jokulljournal.is
+Izvornik: Časopis *Jökull: Journal of Earth Sciences* (ISSN 0449-0576)> http://jokulljournal.is
+Surogat: http://jokulljournal.com
 
-<div style="text-align:center">
-  <iframe src="http://jokulljournal.com" width="800" height="300"></iframe>
-</div>
 
 ---
 ## Lažno predstavljanje 
 
 [Lažni članovi uredništva, Impact Factor](https://www.academicresearchjournals.org/IJEBM/Index.htm) ...
 
-<div style="text-align:center">
-  <iframe src="https://www.academicresearchjournals.org/IJEBM/Index.htm" width="800" height="500"></iframe>
-</div>
 
 ---
+
 ## Lažirani podaci i rezultati
 
 [Lovci u mutnom, prevaranti, hohštapleri](https://www.tandfonline.com/doi/abs/10.4161/onci.25769) ...
 - slučaj [Davida Noakesa](https://en.wikipedia.org/wiki/David_Noakes) i GcMAF 
-
-<div style="text-align:center">
-  <iframe src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3812199/" width="800" height="500"></iframe>
-</div>
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3812199
 
 ---
 ## Hiperprodukacija i fabriciranje knjiga
 
 - karijeristi ...
-- slučaj [Wadima Strielkowskog](../razno/predatory-publishing.pdf)
+- slučaj [Wadima Strielkowskog](razno/predatory-publishing.pdf)
 
 - https://www.amazon.com/Sam-Vaknin/e/B000APLOFK
 
@@ -285,15 +273,12 @@ Neka obilježja (pogledati video na kraju! pt):
 ---
 
 ## Publikacijske farme
-<div style="text-align:center">
-  <iframe src="https://www.omicsonline.org" width="800" height="500"></iframe>
-</div>
-
+- https://www.omicsonline.org
 - https://asclepiusopen.com
 - http://gslpublishers.org/index.php
 - https://innovationinfo.org
 
-[WHOIS?](https://whois.icann.org/en/lookup?name=asclepiusopen.com)
+[Provjera domene pomoću WHOIS metode](https://whois.icann.org/en/lookup?name=asclepiusopen.com)
 
 ---
 
@@ -313,7 +298,7 @@ Phone: +0.00000000<br/>
 Ext:<br/>
 Fax:<br/>
 Fax Ext:<br/>
-Email:gdpr-masking@gdpr-masked.com<br/>
+Email:gdpr-masking@**gdpr-masked.com**<br/>
 
 ---
 # Oružje i oruđe za borbu protiv grabežljivaca
@@ -322,10 +307,7 @@ Email:gdpr-masking@gdpr-masked.com<br/>
 
 Najpoznatiji Beallov popis predatorskih izdavača (2008-2017)
 - ukazao na brojne probleme > (ne)opravdano na udaru žestokih kritika i prijetnji tužbama
-
-<div style="text-align:center">
-  <iframe src="https://beallslist.weebly.com" width="800" height="500"></iframe>
-</div>
+- https://beallslist.weebly.com
 
 ---
 # Ostali popisi 
@@ -336,21 +318,18 @@ Najpoznatiji Beallov popis predatorskih izdavača (2008-2017)
   - lovina postala lovac
   - problem *false negatives* vs *false positives* > logički gledano skup nikada ne može biti potpun!
 
-<div style="text-align:center">
-  <iframe src="https://www2.cabells.com" width="800" height="300"></iframe>
-</div>
+### Pristup popisu vrijedi do 11. veljače 2019. > https://www2.cabells.com (korisničko ime i šifra povezani s kraticom naše institucije - sva velika slova!)
 
 ---
+
 # Alternativa postojećim popisima
 
 - konkretniji kriteriji, (složeniji) bodovni sustav, ponderiranje kriterija i sl.
 
-- [Journal Evaluation Tool](../razno/JournalEvaluationTool.pdf)
-- [Predatory Score](../razno/predatory_score.pdf)
+- [Journal Evaluation Tool](razno/JournalEvaluationTool.pdf)
+- [Predatory Score](razno/predatory_score.pdf)
 - ...
-<div style="text-align:center">
-  <iframe src="../razno/predatory_score.pdf" width="800" height="300"></iframe>
-</div>
+
 
 ---
 
@@ -382,9 +361,7 @@ Najpoznatiji Beallov popis predatorskih izdavača (2008-2017)
 
 # Sublimirano u: Think - Check - Submit
 
-<div style="text-align:center">
-  <iframe src="https://thinkchecksubmit.org" width="800" height="600"></iframe>
-</div>
+- https://thinkchecksubmit.org
 
 ---
 
@@ -394,9 +371,8 @@ Najpoznatiji Beallov popis predatorskih izdavača (2008-2017)
 
 - pseudoznanost i lažni podaci nanose izravnu štetu znanosti i umanjuju povjerenje u rezultate znanstveno-istraživačkog rada
 
-<div style="text-align:center">
-  <iframe src="https://www.daserste.de/information/reportage-dokumentation/dokus/videos/exclusiv-im-ersten-fake-science-die-luegenmacher-video-102.html" width="800" height="600"></iframe>
-</div>
+- video koji doista vrijedi pogledati: 
+https://www.ardmediathek.de/ard/player/Y3JpZDovL2Rhc2Vyc3RlLmRlL3JlcG9ydGFnZSBfIGRva3VtZW50YXRpb24gaW0gZXJzdGVuL2U1ODIzNWJkLWU2MzQtNDExNC05ZjgwLTNlMDQ0YTJmZWExMw/
 
 ---
 
