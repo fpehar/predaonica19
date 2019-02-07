@@ -1,7 +1,3 @@
-% Kako prepoznati predatorske izdavača?
-% Radionica za mentore, 7. veljače 2019.
-% Franjo Pehar, Odjel za informacijske znanosti
-
 # Kako prepoznati predatorske izdavače? v0.1
 
 ## Radionica za mentore, 7. veljače 2019.
