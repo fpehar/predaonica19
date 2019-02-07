@@ -9,7 +9,7 @@
 # Razrada radionice
 
 1. Uvod
-2. Ekosustav i prehrambeni lanac
+2. Znanstveno-komunikacijski pejsaž, ekosustav i prehrambeni lanac
 3. Kako prepoznati grabežljivce?
 4. Oružje i oruđe za borbu protiv grabežljivaca
 5. Zaključak
@@ -36,7 +36,7 @@
 
 ---
 
-# Propitkivanje (stabilnosti) postavljavenih standarda
+# Stabilnost znanstvenih standarda i normi
 
 - rasprave usmjerene na anonimnost, evaluacijske standarde i pouzdanost recenzije/recenzenata
   - prvi eksperimenti usmjereni na provjeru stabilnost recenzijskog sustava
@@ -49,7 +49,7 @@
   "the formal control institutions and technologies that were designed to maintain standards have actually begun to encourage their decline"
 
 ---
-# Neki od poznatijih eksperimenata i "prankovi"
+# Poznatiji eksperimenati i "prankovi"
 
 - [Alan Sokal ili Social Text afera/haox](https://en.wikipedia.org/wiki/Sokal_affair)
 - [Bohannonov eksperiment](https://en.wikipedia.org/wiki/John_Bohannon)
@@ -149,7 +149,7 @@ Otvaramo sezonu lova na grabežljivce!
 *PLoS One objavljuje dnevno cca 100 članaka!
 
 
-### Predatori namirisali ogromnu mogućnost zarade
+### Predatori namirisali mogućnost enormne zarade
 
 - ali i svi veći (tradicionalni) izdavači OA znanstvenih časopisa!
 
@@ -209,7 +209,7 @@ Neka obilježja:
 - konferencije kojoj je jedini motiv laka i brza zarada
 - često "surađuju" s predatorskim časopisima (npr. https://www.omicsonline.org)
 
-Neka obilježja (pogledati video na kraju! pt): 
+Neka obilježja (pogledati [video](https://www.ardmediathek.de/ard/player/Y3JpZDovL2Rhc2Vyc3RlLmRlL3JlcG9ydGFnZSBfIGRva3VtZW50YXRpb24gaW0gZXJzdGVuL2U1ODIzNWJkLWU2MzQtNDExNC05ZjgwLTNlMDQ0YTJmZWExMw/)): 
 
 - obično vrlo široko definirana tematika koju pokriva
 - atraktivna lokacija (grad) ; zvučni hoteli (u pravilu manje dvorane)
@@ -320,7 +320,7 @@ Najpoznatiji Beallov popis predatorskih izdavača (2008-2017)
 
 # Alternativa postojećim popisima
 
-- konkretniji kriteriji, (složeniji) bodovni sustav, ponderiranje kriterija i sl.
+- znanstveni (provjereni) kriteriji, (složeniji) bodovni sustav, ponderiranje kriterija i sl.
 
 - [Journal Evaluation Tool](razno/JournalEvaluationTool.pdf)
 - [Predatory Score](razno/predatory_score.pdf)
@@ -344,7 +344,7 @@ Najpoznatiji Beallov popis predatorskih izdavača (2008-2017)
 - [...]
 ---
 
-# Najbolji "lijek": podizanje razine svijesti
+# Najbolji "lijek" => podizanje razine svijesti
 
 - poznavanje znanstvenog ekosustava i ključnih (su)dionika u vlastitom području, polju, grani, domeni/specijalizaciji
 - razgovor i savjetovanje s (iskusnijim) kolegama
