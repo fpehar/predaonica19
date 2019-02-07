@@ -66,10 +66,7 @@
 ---
 ## ... nekoliko zanimljivih "prankova"
 
-- "Testing Inter-hemispheric Social Priming Theory in a Sample of Professional Politicians-A Brief Report"
-<div style="text-align:center">
-  <iframe src="../03_primjeri_radova/Gerry+Jay+Louis+hoax+paper.pdf" width="800" height="500"></iframe>
-</div>
+- ["Testing Inter-hemispheric Social Priming Theory in a Sample of Professional Politicians-A Brief Report"](../03_primjeri_radova/Gerry+Jay+Louis+hoax+paper.pdf)
 
 ---
 
