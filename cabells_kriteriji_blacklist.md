@@ -1,0 +1,73 @@
+- Integrity
+	- The same article appears in more than one journal.
+	- Hijacked journal (defined as a fraudulent website created to look like a legitimate academic journal for the purpose of offering academics the opportunity to rapidly publish their research for a fee).
+	- Information received from the journal does not match the journal's website.
+	- The journal or publisher claims to be a non-profit when it is actually a for-profit company.
+	- The publisher hides or obscures relationships with for-profit partner companies.
+	- The owner/Editor of the journal or publisher falsely claims academic positions or qualifications.
+	- The journal is associated with a conference that has been identified as predatory.
+	- The journal gives a fake ISSN.
+	- Insufficient resources are spent on preventing and eliminating author misconduct (that may result in repeated cases of plagiarism, self-plagiarism, image manipulation, etc.).
+	- The name of the journal references a country or demographic that does not relate to the content or origin of the journal.
+	- The journal uses language that suggests that it is industry leading, but is in fact a new journal.
+	- The title of the journal is copied or so similar to that of a legitimate journal that it could cause confusion between the two.
+- Peer Review
+	- No editor or editorial board listed on the journal's website at all.
+	- Editors do not actually exist or are deceased.
+	- The journal includes scholars on an editorial board without their knowledge or permission.
+	- The founder of the publishing company is the editor of all of the journals published by said company.
+	- Evident data showing that the editor/review board members do not possess academic expertise to reasonably qualify them to be publication gatekeepers in the journal's field.
+	- Have board members who are prominent researchers but exempt them from any contribution to the journal except the use of their names and/or photographs.
+	- Gender bias in the editorial board.
+	- Little geographical diversity of board members and claim to be international.
+	- Inadequate peer review (i.e., a single reader reviews submissions; peer reviewers read papers outside their field of study; etc.).
+	- The journal's website does not have a clearly stated peer review policy.
+- Website
+	- The website does not identify a physical address for the publisher or gives a fake address.
+	- The journal or publisher uses a virtual office or other proxy business as its physical address.
+	- The website does not identify a physical editorial address for the journal.
+	- Dead links.
+	- Poor grammar and/or spelling.
+	- No way to contact the journal/only has web-form.
+- Publication Practices
+	- The journal publishes papers that are not academic at all, e.g. essays by laypeople or obvious pseudo-science.
+	- No articles are published or the archives are missing issues and/or articles.
+	- Falsely claims indexing in well-known databases (especially SCOPUS, DOAJ, JCR, and Cabell's).
+	- Falsely claims universities or other organizations as partners or sponsors.
+	- Machine-generated or other "sting" abstracts or papers are accepted.
+	- No copyediting.
+	- The publisher displays prominent statements that promise rapid publication and/or unusually quick peer review (less than 4 weeks).
+	- Little geographical diversity of authors and the journal claims to be International.
+	- Similarly titled articles published by same author in more than one journal.
+	- The Editor publishes research in his own journal.
+	- Authors are published several times in the same journal and/or issue.
+	- The journal purposefully publishes controversial articles in the interest of boosting citation count.
+	- The journal publishes papers presented at conferences without additional peer review.
+	- The name of the publisher suggests that it is a society, academy, etc. when it is only a publisher and offers no real benefits to members.
+	- The name of the publisher suggests that it is a society, academy, etc. when it is only a solitary proprietary operation and does not meet the definition of the term used or implied non-profit mission.
+- Indexing & Metrics
+	- The journal uses misleading metrics (i.e., metrics with the words “impact factor” that are not the Thomson Reuters Impact Factor).
+	- The publisher or its journals are not listed in standard periodical directories or are not widely catalogued in library databases.
+- Fees
+	- The publisher or journal's website seems too focused on the payment of fees.
+	- The journal offers options for researchers to prepay APCs for future articles.
+	- The journal states there is an APC or other fee but does not give information on the amount.
+	- The journal or publisher offers membership to receive discounts on APCs but does not give information on how to become a member and/or on the membership fees.
+	- The author must pay APC or publication fee before submitting the article (specifically calls the fee a publication fee, not a submission fee).
+	- The journal does not indicate that there are any fees associated with publication, review, submission, etc. but the author is charged a fee after submitting a manuscript.
+- Access & Copyright
+	- States the journal is completely open access but not all articles are openly available.
+	- No way to access articles (no information on open access or how to subscribe).
+	- No policies for digital preservation.
+	- The journal has a poorly written copyright policy and/or transfer form that does not actually transfer copyright.
+	- The journal publishes not in accordance with their copyright or does not operate under a copyright license.
+- Business Practices
+	- Emails from journals received by researchers who are clearly not in the field the journal covers.
+	- Multiple emails received from a journal in a short amount of time.
+	- Emails received from a journal do not include the option to unsubscribe to future emails.
+	- The journal has been asked to quit sending emails and has not stopped.
+	- No subscribers / nobody uses the journal.
+	- The journal or publisher operates in a Western country chiefly for the purpose of functioning as a vanity press for scholars in a developing country.
+	- The journal's website does not allow web crawlers.
+	- The journal copyproofs and locks PDFs.
+
