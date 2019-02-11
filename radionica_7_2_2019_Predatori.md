@@ -42,6 +42,7 @@
   - prvi eksperimenti usmjereni na provjeru stabilnost recenzijskog sustava
     - Peter i Ceci 1982. promijenili podatke 12 članaka američkih psihologa i poslali radove istim časopisima > rezultat: samo 3 od 12 radova (raz)otkriveno ; 8 od 9 odbijeno (metodološki nedostaci)!
 - institucijski diktat objave u recenziranim časopisima
+  - zabilježeni nedostaci recenzijskog postupka: [Peer review: a flawed process at the heart of science and journals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420798/)
 - globalna znanstvena agenda "publish or perish"
 - "kriza znanstveno izdavaštva"
   - Benjamin Singer (1989.) u raspravi o "akademskoj krizi" navodi: 
